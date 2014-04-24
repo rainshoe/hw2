@@ -1,0 +1,62 @@
+html {
+  background: rgba(255, 233,  0, 0.4);
+  font-family: 微軟正黑體;
+
+}
+.heady{
+  margin-top:2em;
+ text-align: center;
+  
+}
+.nav{
+  width:100%;
+  text-align: center;
+  height:1.8em;
+  padding-top:0.4em;
+  bottom: 0px;
+  background: rgba(255,127,80,0.7);
+  position: fixed;
+  letter-spacing:0.2em;
+  font-size:1.5em
+}
+
+.heady h1{
+ font-family: "Arial Black", Gadget, sans-serif;
+ color:red;
+ font-size:3em
+
+}
+.heady h2{
+ font-family:"Arial Black", Gadget, sans-serif
+ font-size:2em
+
+}
+
+img{
+
+  position:reletive;
+  margin-top:1em;
+  display:block;
+  margin: auto;
+
+}
+h4{
+  text-align: center;
+}
+
+.article h3 {
+   font-family:"Arial Black", Gadget, sans-serif;
+ font-size:1.5em;
+    color: red;
+  background:rgba(255, 150,  0, 0.4);
+  
+  
+}
+
+p,li,dd{
+    font-size:1.1em;
+
+}
+dt{
+   font-size:1.3em;
+}
